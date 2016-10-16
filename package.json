@@ -1,0 +1,16 @@
+{
+  "name": "custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "custom",
+    "modules"
+  ],
+  "author": "SP",
+  "license": "MIT"
+}
